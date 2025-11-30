@@ -1,0 +1,20 @@
+{
+  "name": "finaceflow-api",
+  "version": "1.0.0",
+  "description": "Projecto",
+  "homepage": "https://github.com/Iosaldo/FinanceFlow-Personal-Budget-API#readme",
+  "bugs": {
+    "url": "https://github.com/Iosaldo/FinanceFlow-Personal-Budget-API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iosaldo/FinanceFlow-Personal-Budget-API.git"
+  },
+  "license": "ISC",
+  "author": "Iasaldo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
